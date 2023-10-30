@@ -1,10 +1,10 @@
-### Hello, I'm Pollyany 👋
+### Olá, eu sou Pollyany 👋
 
-- 📚 I recently completed two React Js courses.
-- 📚 I'm currently studying Typescript.
-- 👩‍💻 I'm developing a personal project in React Js.
+- ✅ Aqui você irá encontrar alguns projetos focados no Front-End.
+- 📚 Atualmente estou cursando ADS e aprendendo Typescript.
+- 👩‍💻 Apaixonada por tecnologia! ❤
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Algumas tecnologias que eu uso
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
@@ -14,7 +14,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
 
 
-<!-- ### 🚀 Quick Stats
+<!-- ### 🚀 Estatísticas rápidas
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=pollyany&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
 </p>
