@@ -1,10 +1,14 @@
-### Olá, eu sou Pollyany 👋
+### Olá, eu sou Pollyany! 👋
 
-- ✅ Aqui você irá encontrar alguns projetos focados no Front-End.
-- 📚 Atualmente estou cursando ADS e aprendendo Typescript.
-- 👩‍💻 Apaixonada por tecnologia! ❤
+- 👩‍💻 Desenvolvedora Front-End apaixonada por criar experiências digitais incríveis.
+- 🌐 Aqui você encontrará uma variedade de projetos, destacando meu foco e habilidades no Front-End, especialmente em ReactJS.
+- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) e mergulhando nos encantos do Typescript.
+- 🚀 Comprometida em aprender e evoluir constantemente no mundo em constante transformação da tecnologia.
+- 🤝 Aberta a colaborações e oportunidades que desafiem minhas habilidades e contribuam para projetos inovadores.
 
-### ⚙️ Algumas tecnologias que eu uso
+Vamos construir algo incrível juntos? Explore meus projetos e entre em contato para discutirmos colaborações e ideias! 💬🚀
+
+### ⚙️ Algumas tecnologias que eu utilizo:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
