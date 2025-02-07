@@ -8,6 +8,7 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
